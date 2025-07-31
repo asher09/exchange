@@ -1,1 +1,0 @@
-/home/asher/superdev/week-3/target/debug/week-3: /home/asher/superdev/week-3/src/input.rs /home/asher/superdev/week-3/src/main.rs /home/asher/superdev/week-3/src/output.rs /home/asher/superdev/week-3/src/routes.rs
